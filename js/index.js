@@ -1,10 +1,10 @@
 var firebaseConfig = 
 {
     apiKey: "AIzaSyDLs4Ea4pXTwqYvHv0PWboxJNYoe8SgA0U",
-    authDomain: "kit-ncdrc-portal.firebaseapp.com",
-    databaseURL: "https://*.firebaseio.com",
-    projectId: "kit-ncdrc-portal",
-    storageBucket: "kit-ncdrc-portal.appspot.com",
+    authDomain: "x.firebaseapp.com",
+    databaseURL: "https://x.firebaseio.com",
+    projectId: "x",
+    storageBucket: "x.appspot.com",
     messagingSenderId: "822595100725",
     appId: "1:822595100725:web:468eea06abfd600de4517c",
     measurementId: "G-J99KD1CFNV"
