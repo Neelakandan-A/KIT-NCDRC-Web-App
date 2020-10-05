@@ -1,1 +1,1 @@
-# KIT-NCDRC-Web-App
+# KIT NCDRC Web App
